@@ -17,6 +17,7 @@
   },
   "homepage": "https://github.com/beardtree/node-nltk",
   "dependencies": {
-    "zerorpc": "^0.9.3"
+    "zerorpc": "^0.9.3",
+    "bluebird": "^1.2.2"
   }
 }
