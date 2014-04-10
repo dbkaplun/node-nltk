@@ -1,6 +1,6 @@
 {
   "name": "node-nltk",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "description": "NodeJS bindings for Python's NLTK",
   "main": "index.js",
   "scripts": {
@@ -17,6 +17,7 @@
   },
   "homepage": "https://github.com/beardtree/node-nltk",
   "dependencies": {
-    "zerorpc": "^0.9.3"
+    "zerorpc": "^0.9.3",
+    "bluebird": "^1.2.2"
   }
 }
