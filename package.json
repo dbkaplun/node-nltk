@@ -8,14 +8,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git://github.com/beardtree/node-nltk.git"
+    "url": "git://github.com/dbkaplun/node-nltk.git"
   },
-  "author": "Dan Kaplun <dan@beardtree.com>",
+  "author": "Dan Kaplun <dbkaplun@gmail.com>",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/beardtree/node-nltk/issues"
+    "url": "https://github.com/dbkaplun/node-nltk/issues"
   },
-  "homepage": "https://github.com/beardtree/node-nltk",
+  "homepage": "https://github.com/dbkaplun/node-nltk",
   "dependencies": {
     "zerorpc": "^0.9.3",
     "bluebird": "^1.2.2"
